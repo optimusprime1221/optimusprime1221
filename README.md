@@ -15,7 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=optimusprime1221&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-![trophy](https://github-profile-trophy.vercel.app/?username=optimusprime1221&theme=flat&no-frame=true&row=1&column=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
